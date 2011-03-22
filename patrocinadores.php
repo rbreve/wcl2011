@@ -14,7 +14,7 @@
 	
 	<div class="row">
 		
-		<div class="eightcol"> 
+		<div class="eightcol text-normal"> 
 		<p>En nuestros eventos de años anteriores nos han apoyado empresas líderes y visionarias en el uso de las nuevas tendencias tecnológicas para los negocios. Entre ellas están:
 		</p>                                                                  
 		
@@ -26,9 +26,12 @@
         
         <h2>¿Desea ser patrocinador?</h2>
         <p>Pronto anunciaremos las lista de los patrocinadores confirmados para WebConfLatino Panamá 2011.<br/>
+		<p>
         Contamos con diferentes niveles de patrocinio para que todas las empresas interesadas puedan participar.
-        <br/>Si desea formar parte del grupo de empresas patrocinadoras escríbanos a <a href="mailto:panama@webconflatino.com" class="link">panama@webconflatino.com</a>.
-        
+        </p>
+		<p>
+		Si desea formar parte del grupo de empresas patrocinadoras escríbanos a <a href="mailto:panama@webconflatino.com" class="link">panama@webconflatino.com</a>.
+        </p>
         </p>
 
 		</div>

@@ -13,7 +13,7 @@
 	</div>
 	
 	<div class="row">		
-		<div class="eightcol">
+		<div class="eightcol text-normal">
 			 <p>En nuestra primera edición de WebConfLatino Panamá hemos escogido el Hotel Intercontinental Miramar como sede para las conferencias y coctel de clausura.</p>
 			 
 			 <p>La mañana del evento estaremos registrando a los participantes desde las 8:00 AM e iniciaremos puntualmente a las 9:00 AM. Los coffee breaks y almuerzo están incluídos en el precio del boleto.
