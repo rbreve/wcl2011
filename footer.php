@@ -6,9 +6,7 @@
         WebConfLatino Panamá 2011<br/>
         Para mayor información contáctanos al Tel. +507 236-8350 o 
          <a href="mailto:panama@webconflatino.com" class="link" target="_blank">panama@webconflatino.com</a>
-        <br/>
-        28 de Abril 2011 ■ Hotel Intercontinental Miramar ■ Ciudad Panamá, Panamá
-        </div>
+          </div>
         <div class="social-buttons twocol last">
             <a href="http://facebook.com/webconf" target="_blank"><img src="img/facebook.png"></a>
             <a href="http://twitter.com/webconflatino" target="_blank"><img src="img/twitter.png"></a> 
