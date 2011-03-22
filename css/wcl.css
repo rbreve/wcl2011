@@ -30,8 +30,12 @@ a {
 } 
 
 .boilerplate .social-buttons{ 
-  
+  text-align: right;
 }              
+
+.social-buttons img{
+	margin-right: 10px;
+}
 
 .boilerplate .info{ 
 	font-weight:100;

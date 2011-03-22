@@ -1,6 +1,6 @@
 <div class="bottom">                                               
     <div class="boilerplate">
- 	<div class="row"
+ 	<div class="row">
         <div class="info tencol">
  
         WebConfLatino Panamá 2011<br/>
